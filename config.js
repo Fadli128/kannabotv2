@@ -50,7 +50,7 @@ global.sig = 'https://instagram.com/AryBotz'
 global.sgh = 'https://github.com/aryjuanda'
 global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
 global.sdc = 'https://github.com/aryjuanda'
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://youtube.com/c/AryBotz'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085762008398'
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 尺乇ㄒ乇卂爪.|ᗪ \nig reteam.id`
+global.stickauth = `乂 YT:AryBotz.|ᗪ \nig ArtBotz.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
