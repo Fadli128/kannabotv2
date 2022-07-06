@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 YT:AryBotz.|ᗪ \nig ArtBotz.id`
+global.stickauth = `乂 YT:AryBotz.|ᗪ \nig AryBotz.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
