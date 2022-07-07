@@ -58,7 +58,7 @@ global.povo = 'Gaada bang :v'
 global.pgopay = 'Gaada bang :v'
 global.ppulsa = '085762008398'
 global.ppulsa2 = '085762008398'
-global.psaweria = '-'
+global.psaweria = 'https://saweria.co/admin'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285763050960'
