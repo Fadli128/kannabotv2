@@ -25,7 +25,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *sᴛᴀᴛᴜs:* Hanya Butuh Pasangan:v 
 
 *ʙɪʀᴛʜᴅᴀʏ:* 5 Mei 2006
-*ᴀᴅᴅʀᴇss:* Indonesia, Kalsel, Kandangan
+*ᴀᴅᴅʀᴇss:* Indonesia, Sumut, Sibolangit
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
